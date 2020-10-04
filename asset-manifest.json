@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/trumperinator/static/css/main.fdb061f0.chunk.css",
-    "main.js": "/trumperinator/static/js/main.b721e12a.chunk.js",
-    "main.js.map": "/trumperinator/static/js/main.b721e12a.chunk.js.map",
-    "runtime-main.js": "/trumperinator/static/js/runtime-main.890a66f1.js",
-    "runtime-main.js.map": "/trumperinator/static/js/runtime-main.890a66f1.js.map",
-    "static/css/2.d9e9e0c2.chunk.css": "/trumperinator/static/css/2.d9e9e0c2.chunk.css",
-    "static/js/2.f41c016a.chunk.js": "/trumperinator/static/js/2.f41c016a.chunk.js",
-    "static/js/2.f41c016a.chunk.js.map": "/trumperinator/static/js/2.f41c016a.chunk.js.map",
-    "index.html": "/trumperinator/index.html",
-    "precache-manifest.a2e61e88cf2125cbd570e1ef0f9dae24.js": "/trumperinator/precache-manifest.a2e61e88cf2125cbd570e1ef0f9dae24.js",
-    "service-worker.js": "/trumperinator/service-worker.js",
-    "static/css/2.d9e9e0c2.chunk.css.map": "/trumperinator/static/css/2.d9e9e0c2.chunk.css.map",
-    "static/css/main.fdb061f0.chunk.css.map": "/trumperinator/static/css/main.fdb061f0.chunk.css.map",
-    "static/js/2.f41c016a.chunk.js.LICENSE.txt": "/trumperinator/static/js/2.f41c016a.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/trumperinator/static/media/logo.5d5d9eef.svg"
+    "main.css": "/trumperator/static/css/main.fdb061f0.chunk.css",
+    "main.js": "/trumperator/static/js/main.445030b3.chunk.js",
+    "main.js.map": "/trumperator/static/js/main.445030b3.chunk.js.map",
+    "runtime-main.js": "/trumperator/static/js/runtime-main.84f90c9d.js",
+    "runtime-main.js.map": "/trumperator/static/js/runtime-main.84f90c9d.js.map",
+    "static/css/2.d9e9e0c2.chunk.css": "/trumperator/static/css/2.d9e9e0c2.chunk.css",
+    "static/js/2.f41c016a.chunk.js": "/trumperator/static/js/2.f41c016a.chunk.js",
+    "static/js/2.f41c016a.chunk.js.map": "/trumperator/static/js/2.f41c016a.chunk.js.map",
+    "index.html": "/trumperator/index.html",
+    "precache-manifest.f722fa41c7300e02e62c9449d1ea135c.js": "/trumperator/precache-manifest.f722fa41c7300e02e62c9449d1ea135c.js",
+    "service-worker.js": "/trumperator/service-worker.js",
+    "static/css/2.d9e9e0c2.chunk.css.map": "/trumperator/static/css/2.d9e9e0c2.chunk.css.map",
+    "static/css/main.fdb061f0.chunk.css.map": "/trumperator/static/css/main.fdb061f0.chunk.css.map",
+    "static/js/2.f41c016a.chunk.js.LICENSE.txt": "/trumperator/static/js/2.f41c016a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/trumperator/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.890a66f1.js",
+    "static/js/runtime-main.84f90c9d.js",
     "static/css/2.d9e9e0c2.chunk.css",
     "static/js/2.f41c016a.chunk.js",
     "static/css/main.fdb061f0.chunk.css",
-    "static/js/main.b721e12a.chunk.js"
+    "static/js/main.445030b3.chunk.js"
   ]
 }
