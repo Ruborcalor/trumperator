@@ -2,7 +2,7 @@
   "name": "trump",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ruborcalor.github.io/trumperinator",
+  "homepage": "http://ruborcalor.github.io/trumperator",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
